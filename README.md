@@ -5,7 +5,7 @@ it is an example of implementation of websocket(ws) in node
 ## Clone
 
 ```
-$ git clone https://github.com/ikaranpatel/ws-backend.git/
+$ git clone git@github.com:ikaranpatel/ws-api.git
 ```
 
 ## Install dependencies
